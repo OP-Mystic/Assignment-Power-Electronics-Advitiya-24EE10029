@@ -1,0 +1,6 @@
+{
+  "name": "RectiScope — Power Electronics Rectifier Workbench",
+  "description": "Interactive power electronics schematic and waveform simulator for single-phase and three-phase, half-wave and full-bridge diode and thyristor rectifiers with RL loads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
